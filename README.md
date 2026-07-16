@@ -1,1 +1,1 @@
-Setting git for the first time.
+Setting up and configuring  git for the first time.
